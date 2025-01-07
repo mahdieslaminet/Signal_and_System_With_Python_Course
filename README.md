@@ -28,15 +28,11 @@
 
 مخزن را کلون کنید:
 
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/Signal_and_System_With_Python_Cours.git
 
 وارد پوشه پروژه شوید:
 
-cd signals-and-systems
-
-محیط مورد نیاز را نصب کنید:
-
-pip install -r requirements.txt
+cd Signal_and_System_With_Python_Cours
 
 فایل‌های Jupyter Notebook را اجرا کرده و درسنامه‌ها و کدها را بررسی کنید.
 
@@ -61,5 +57,4 @@ pip install -r requirements.txt
 تماس با ما
 
 اگر سوالی دارید یا به کمک نیاز دارید، می‌توانید از طریق ایمیل زیر با ما در تماس باشید:
-mehdieslami@example.com
-
+mahdeslami11@gmail.com
